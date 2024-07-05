@@ -1,8 +1,6 @@
-# Maven YouTube Series
-## _Please check my YouTube Playlists at https://www.youtube.com/watch?v=CuZtiXdo-6A&list=PL8klaCXyIuQ4pRip23p8v7oAXOxvTLbCQ_
+# Maven 
 
-
-## Covered in the Series
+## Covered topics
 
  - SW Build Process 
  - Build tools  
@@ -20,12 +18,3 @@
  - Deploying to Tomcat Server
  - Deploying as a Container
  - Deploying to Kubernetes
-
-## Videos
-**Please follow the videos in the given order**
-
- 1. Series Intro
-
-## Authors
-
-Vikram Kunchala
